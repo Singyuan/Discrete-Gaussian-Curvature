@@ -2,7 +2,7 @@
 >Mixed Area is to be added.
 
 ## Introduction
-This is a method of discrete Gaussian Curvature operator.
+This is a method of discrete Gaussian curvature operator. Please refer to Meyer et al. [1] and https://singyuan.github.io/materials/ntu/gausscurv.html .
 
 ## Quick start
 1. Visit the folder "exp".
